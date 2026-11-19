@@ -1,0 +1,746 @@
+[
+  {
+    "id": "brasa-burger",
+    "name": "Brasa Burger",
+    "category": "Hambúrguer",
+    "description": "Hambúrgueres na brasa, ingredientes frescos e aquele queijo que abraça. Um clássico da vizinhança.",
+    "image": "/images/burger.jpg",
+    "rating": 4.9,
+    "reviewCount": 1284,
+    "deliveryMin": 25,
+    "deliveryMax": 35,
+    "deliveryFee": 0,
+    "averagePrice": 38,
+    "minimumOrder": 25,
+    "distanceKm": 1.2,
+    "tags": ["artesanal", "grelhado", "queijo"],
+    "dietaryOptions": ["vegetariana"],
+    "featured": true,
+    "products": [
+      {
+        "id": "brasa-burger-1",
+        "name": "Brasa clássico",
+        "description": "Pão brioche, burger de 160 g, cheddar e maionese da casa.",
+        "price": 32.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "brasa-burger-2",
+        "name": "Duplo da casa",
+        "description": "Dois burgers de 160 g, queijo, cebola caramelizada e molho especial.",
+        "price": 44.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "brasa-burger-3",
+        "name": "Burger de grão-de-bico",
+        "description": "Burger de grão-de-bico, alface, tomate e molho de ervas.",
+        "price": 31.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "brasa-burger-4",
+        "name": "Batatas rústicas",
+        "description": "Batatas douradas com páprica e alecrim.",
+        "price": 18.9,
+        "section": "Acompanhamentos"
+      },
+      {
+        "id": "brasa-burger-drink-1",
+        "name": "Suco natural de laranja · 300 ml",
+        "description": "Preparado na hora, sem adição de açúcar.",
+        "price": 10.9,
+        "section": "Bebidas"
+      },
+      {
+        "id": "brasa-burger-drink-2",
+        "name": "Água mineral · 500 ml",
+        "description": "Água mineral sem gás.",
+        "price": 4.9,
+        "section": "Bebidas"
+      }
+    ]
+  },
+  {
+    "id": "sushi-prime",
+    "name": "Sushi Prime",
+    "category": "Japonesa",
+    "description": "Tradição japonesa com um olhar contemporâneo. Cortes frescos, combinações delicadas e cuidado em cada peça.",
+    "image": "/images/sushi.jpg",
+    "rating": 4.9,
+    "reviewCount": 1120,
+    "deliveryMin": 25,
+    "deliveryMax": 40,
+    "deliveryFee": 5.9,
+    "averagePrice": 65,
+    "minimumOrder": 35,
+    "distanceKm": 2.1,
+    "tags": ["sushi", "salmão", "fresco"],
+    "dietaryOptions": ["sem lactose"],
+    "featured": true,
+    "products": [
+      {
+        "id": "sushi-prime-1",
+        "name": "Combinado salmão · 20 peças",
+        "description": "Sashimis, niguiris e uramakis de salmão selecionado.",
+        "price": 64.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "sushi-prime-2",
+        "name": "Hot roll especial · 10 peças",
+        "description": "Salmão, cream cheese e cebolinha, com crocância na medida.",
+        "price": 36.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "sushi-prime-3",
+        "name": "Temaki salmão",
+        "description": "Alga nori, arroz japonês e salmão fresco.",
+        "price": 32.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "sushi-prime-4",
+        "name": "Sunomono",
+        "description": "Pepino japonês com gergelim e molho agridoce.",
+        "price": 14.9,
+        "section": "Acompanhamentos"
+      },
+      {
+        "id": "sushi-prime-drink-1",
+        "name": "Suco natural de laranja · 300 ml",
+        "description": "Preparado na hora, sem adição de açúcar.",
+        "price": 10.9,
+        "section": "Bebidas"
+      },
+      {
+        "id": "sushi-prime-drink-2",
+        "name": "Água mineral · 500 ml",
+        "description": "Água mineral sem gás.",
+        "price": 4.9,
+        "section": "Bebidas"
+      }
+    ]
+  },
+  {
+    "id": "nonna-pizza",
+    "name": "Nonna Pizza",
+    "category": "Pizza",
+    "description": "Massa de fermentação lenta, forno a lenha e receitas de família. Um pedacinho da Itália em cada fatia.",
+    "image": "/images/pizza.jpg",
+    "rating": 4.8,
+    "reviewCount": 876,
+    "deliveryMin": 35,
+    "deliveryMax": 50,
+    "deliveryFee": 0,
+    "averagePrice": 52,
+    "minimumOrder": 30,
+    "distanceKm": 1.8,
+    "tags": ["forno a lenha", "massa artesanal", "queijo"],
+    "dietaryOptions": ["vegetariana"],
+    "featured": true,
+    "products": [
+      {
+        "id": "nonna-pizza-1",
+        "name": "Margherita artesanal",
+        "description": "Molho de tomate, muçarela fresca e manjericão. 6 fatias.",
+        "price": 49.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "nonna-pizza-2",
+        "name": "Calabresa da Nonna",
+        "description": "Calabresa, cebola roxa, muçarela e orégano. 6 fatias.",
+        "price": 54.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "nonna-pizza-3",
+        "name": "Quatro queijos",
+        "description": "Muçarela, gorgonzola, parmesão e requeijão. 6 fatias.",
+        "price": 59.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "nonna-pizza-4",
+        "name": "Pão de alho da casa",
+        "description": "Massa artesanal, manteiga de alho e parmesão.",
+        "price": 17.9,
+        "section": "Acompanhamentos"
+      },
+      {
+        "id": "nonna-pizza-drink-1",
+        "name": "Suco natural de laranja · 300 ml",
+        "description": "Preparado na hora, sem adição de açúcar.",
+        "price": 10.9,
+        "section": "Bebidas"
+      },
+      {
+        "id": "nonna-pizza-drink-2",
+        "name": "Água mineral · 500 ml",
+        "description": "Água mineral sem gás.",
+        "price": 4.9,
+        "section": "Bebidas"
+      }
+    ]
+  },
+  {
+    "id": "verde-vivo",
+    "name": "Verde Vivo",
+    "category": "Saudável",
+    "description": "Comida de verdade, cores vibrantes e energia boa. Bowls e saladas com ingredientes da estação.",
+    "image": "/images/salad.jpg",
+    "rating": 4.8,
+    "reviewCount": 642,
+    "deliveryMin": 20,
+    "deliveryMax": 30,
+    "deliveryFee": 0,
+    "averagePrice": 32,
+    "minimumOrder": 20,
+    "distanceKm": 0.8,
+    "tags": ["salada", "bowl", "natural"],
+    "dietaryOptions": ["vegana", "vegetariana", "sem lactose"],
+    "featured": false,
+    "products": [
+      {
+        "id": "verde-vivo-1",
+        "name": "Bowl da estação",
+        "description": "Quinoa, abóbora assada, grão-de-bico e folhas frescas.",
+        "price": 32.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "verde-vivo-2",
+        "name": "Salada mediterrânea",
+        "description": "Mix de folhas, tomate, pepino, azeitonas e queijo branco.",
+        "price": 29.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "verde-vivo-3",
+        "name": "Bowl de tofu",
+        "description": "Arroz integral, tofu grelhado, brócolis e molho de tahine.",
+        "price": 34.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "verde-vivo-4",
+        "name": "Wrap de legumes",
+        "description": "Pão integral, homus, cenoura e abobrinha grelhada.",
+        "price": 24.9,
+        "section": "Acompanhamentos"
+      },
+      {
+        "id": "verde-vivo-drink-1",
+        "name": "Suco natural de laranja · 300 ml",
+        "description": "Preparado na hora, sem adição de açúcar.",
+        "price": 10.9,
+        "section": "Bebidas"
+      },
+      {
+        "id": "verde-vivo-drink-2",
+        "name": "Água mineral · 500 ml",
+        "description": "Água mineral sem gás.",
+        "price": 4.9,
+        "section": "Bebidas"
+      }
+    ]
+  },
+  {
+    "id": "tempero-de-casa",
+    "name": "Tempero de Casa",
+    "category": "Brasileira",
+    "description": "O abraço do almoço de casa: receitas brasileiras, tempero caprichado e porções generosas.",
+    "image": "/images/brazilian.jpg",
+    "rating": 4.7,
+    "reviewCount": 934,
+    "deliveryMin": 25,
+    "deliveryMax": 40,
+    "deliveryFee": 4.9,
+    "averagePrice": 28,
+    "minimumOrder": 18,
+    "distanceKm": 1.5,
+    "tags": ["caseira", "arroz", "feijão"],
+    "dietaryOptions": ["vegetariana"],
+    "featured": false,
+    "products": [
+      {
+        "id": "tempero-de-casa-1",
+        "name": "Prato feito da casa",
+        "description": "Arroz, feijão, bife acebolado, farofa e salada.",
+        "price": 28.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "tempero-de-casa-2",
+        "name": "Frango com quiabo",
+        "description": "Frango ensopado, quiabo, arroz e angu.",
+        "price": 31.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "tempero-de-casa-3",
+        "name": "Feijoada individual",
+        "description": "Feijoada, arroz, couve, farofa e laranja.",
+        "price": 36.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "tempero-de-casa-4",
+        "name": "Prato de legumes",
+        "description": "Arroz, feijão, abóbora, couve e farofa sem carnes.",
+        "price": 25.9,
+        "section": "Acompanhamentos"
+      },
+      {
+        "id": "tempero-de-casa-drink-1",
+        "name": "Suco natural de laranja · 300 ml",
+        "description": "Preparado na hora, sem adição de açúcar.",
+        "price": 10.9,
+        "section": "Bebidas"
+      },
+      {
+        "id": "tempero-de-casa-drink-2",
+        "name": "Água mineral · 500 ml",
+        "description": "Água mineral sem gás.",
+        "price": 4.9,
+        "section": "Bebidas"
+      }
+    ]
+  },
+  {
+    "id": "pasta-bella",
+    "name": "Pasta Bella",
+    "category": "Italiana",
+    "description": "Massas feitas com calma, molhos preparados na casa e o prazer de sentar à mesa.",
+    "image": "/images/pasta.jpg",
+    "rating": 4.8,
+    "reviewCount": 518,
+    "deliveryMin": 30,
+    "deliveryMax": 45,
+    "deliveryFee": 6.9,
+    "averagePrice": 58,
+    "minimumOrder": 30,
+    "distanceKm": 3.2,
+    "tags": ["massas", "molho artesanal", "risoto"],
+    "dietaryOptions": ["vegetariana"],
+    "featured": false,
+    "products": [
+      {
+        "id": "pasta-bella-1",
+        "name": "Fettuccine ao pesto",
+        "description": "Massa fresca com pesto de manjericão e parmesão.",
+        "price": 49.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "pasta-bella-2",
+        "name": "Spaghetti à bolonhesa",
+        "description": "Massa grano duro com ragu de carne cozido lentamente.",
+        "price": 46.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "pasta-bella-3",
+        "name": "Risoto de cogumelos",
+        "description": "Arroz arbóreo, cogumelos frescos e parmesão.",
+        "price": 58.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "pasta-bella-4",
+        "name": "Bruschetta de tomate",
+        "description": "Pão tostado, tomate, manjericão e azeite.",
+        "price": 22.9,
+        "section": "Acompanhamentos"
+      },
+      {
+        "id": "pasta-bella-drink-1",
+        "name": "Suco natural de laranja · 300 ml",
+        "description": "Preparado na hora, sem adição de açúcar.",
+        "price": 10.9,
+        "section": "Bebidas"
+      },
+      {
+        "id": "pasta-bella-drink-2",
+        "name": "Água mineral · 500 ml",
+        "description": "Água mineral sem gás.",
+        "price": 4.9,
+        "section": "Bebidas"
+      }
+    ]
+  },
+  {
+    "id": "doce-atelier",
+    "name": "Doce Ateliê",
+    "category": "Doces",
+    "description": "Pequenos doces para grandes pausas. Confeitaria artesanal preparada todos os dias.",
+    "image": "/images/dessert.jpg",
+    "rating": 4.9,
+    "reviewCount": 761,
+    "deliveryMin": 20,
+    "deliveryMax": 35,
+    "deliveryFee": 3.9,
+    "averagePrice": 22,
+    "minimumOrder": 15,
+    "distanceKm": 1.3,
+    "tags": ["confeitaria", "chocolate", "bolo"],
+    "dietaryOptions": ["vegetariana"],
+    "featured": false,
+    "products": [
+      {
+        "id": "doce-atelier-1",
+        "name": "Brownie da casa",
+        "description": "Chocolate intenso, casquinha fina e interior macio.",
+        "price": 16.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "doce-atelier-2",
+        "name": "Fatia de bolo de cenoura",
+        "description": "Bolo fofinho com cobertura de chocolate.",
+        "price": 14.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "doce-atelier-3",
+        "name": "Cheesecake de frutas vermelhas",
+        "description": "Creme leve, base crocante e geleia artesanal.",
+        "price": 22.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "doce-atelier-4",
+        "name": "Caixa de brigadeiros · 6 un.",
+        "description": "Brigadeiros de chocolate, coco e caramelo.",
+        "price": 27.9,
+        "section": "Acompanhamentos"
+      },
+      {
+        "id": "doce-atelier-drink-1",
+        "name": "Suco natural de laranja · 300 ml",
+        "description": "Preparado na hora, sem adição de açúcar.",
+        "price": 10.9,
+        "section": "Bebidas"
+      },
+      {
+        "id": "doce-atelier-drink-2",
+        "name": "Água mineral · 500 ml",
+        "description": "Água mineral sem gás.",
+        "price": 4.9,
+        "section": "Bebidas"
+      }
+    ]
+  },
+  {
+    "id": "casa-taco",
+    "name": "Casa Taco",
+    "category": "Mexicana",
+    "description": "Tacos coloridos, guacamole fresquinho e um toque de pimenta. Uma viagem sem sair de casa.",
+    "image": "/images/taco.jpg",
+    "rating": 4.7,
+    "reviewCount": 402,
+    "deliveryMin": 30,
+    "deliveryMax": 45,
+    "deliveryFee": 0,
+    "averagePrice": 42,
+    "minimumOrder": 25,
+    "distanceKm": 2.6,
+    "tags": ["taco", "picante", "guacamole"],
+    "dietaryOptions": ["vegetariana", "vegana"],
+    "featured": false,
+    "products": [
+      {
+        "id": "casa-taco-1",
+        "name": "Trio de tacos de carne",
+        "description": "Tortillas de milho, carne desfiada, pico de gallo e limão.",
+        "price": 39.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "casa-taco-2",
+        "name": "Burrito de frango",
+        "description": "Tortilla recheada com arroz, feijão e frango temperado.",
+        "price": 34.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "casa-taco-3",
+        "name": "Tacos de cogumelos",
+        "description": "Cogumelos grelhados, guacamole e cebola roxa. 3 un.",
+        "price": 37.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "casa-taco-4",
+        "name": "Nachos com guacamole",
+        "description": "Nachos crocantes e guacamole preparado na casa.",
+        "price": 24.9,
+        "section": "Acompanhamentos"
+      },
+      {
+        "id": "casa-taco-drink-1",
+        "name": "Suco natural de laranja · 300 ml",
+        "description": "Preparado na hora, sem adição de açúcar.",
+        "price": 10.9,
+        "section": "Bebidas"
+      },
+      {
+        "id": "casa-taco-drink-2",
+        "name": "Água mineral · 500 ml",
+        "description": "Água mineral sem gás.",
+        "price": 4.9,
+        "section": "Bebidas"
+      }
+    ]
+  },
+  {
+    "id": "koji-sushi",
+    "name": "Koji Sushi",
+    "category": "Japonesa",
+    "description": "Combinações japonesas para a rotina, com peixes frescos e porções para compartilhar.",
+    "image": "/images/sushi.jpg",
+    "rating": 4.6,
+    "reviewCount": 589,
+    "deliveryMin": 35,
+    "deliveryMax": 50,
+    "deliveryFee": 0,
+    "averagePrice": 48,
+    "minimumOrder": 30,
+    "distanceKm": 3.5,
+    "tags": ["sushi", "hot roll", "temaki"],
+    "dietaryOptions": ["sem lactose"],
+    "featured": false,
+    "products": [
+      {
+        "id": "koji-sushi-1",
+        "name": "Combinado Koji · 24 peças",
+        "description": "Mix de uramakis, hossomakis e niguiris.",
+        "price": 59.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "koji-sushi-2",
+        "name": "Yakisoba de legumes",
+        "description": "Macarrão oriental com legumes e molho da casa.",
+        "price": 32.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "koji-sushi-3",
+        "name": "Temaki de atum",
+        "description": "Alga nori, arroz, atum e cebolinha.",
+        "price": 29.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "koji-sushi-4",
+        "name": "Guioza · 6 unidades",
+        "description": "Massa delicada recheada com legumes.",
+        "price": 23.9,
+        "section": "Acompanhamentos"
+      },
+      {
+        "id": "koji-sushi-drink-1",
+        "name": "Suco natural de laranja · 300 ml",
+        "description": "Preparado na hora, sem adição de açúcar.",
+        "price": 10.9,
+        "section": "Bebidas"
+      },
+      {
+        "id": "koji-sushi-drink-2",
+        "name": "Água mineral · 500 ml",
+        "description": "Água mineral sem gás.",
+        "price": 4.9,
+        "section": "Bebidas"
+      }
+    ]
+  },
+  {
+    "id": "quintal-burger",
+    "name": "Quintal Burger",
+    "category": "Hambúrguer",
+    "description": "Smash burgers descomplicados, batatas crocantes e o clima descontraído do quintal.",
+    "image": "/images/burger.jpg",
+    "rating": 4.6,
+    "reviewCount": 345,
+    "deliveryMin": 20,
+    "deliveryMax": 30,
+    "deliveryFee": 3.9,
+    "averagePrice": 29,
+    "minimumOrder": 20,
+    "distanceKm": 1.1,
+    "tags": ["smash", "batata", "lanche"],
+    "dietaryOptions": ["vegetariana"],
+    "featured": false,
+    "products": [
+      {
+        "id": "quintal-burger-1",
+        "name": "Smash original",
+        "description": "Pão, smash de 90 g, queijo e molho do Quintal.",
+        "price": 23.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "quintal-burger-2",
+        "name": "Smash duplo",
+        "description": "Dois smash burgers, queijo e picles.",
+        "price": 31.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "quintal-burger-3",
+        "name": "Veggie do Quintal",
+        "description": "Burger de lentilha, tomate e maionese de ervas.",
+        "price": 27.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "quintal-burger-4",
+        "name": "Batata crocante",
+        "description": "Porção individual com sal e páprica.",
+        "price": 13.9,
+        "section": "Acompanhamentos"
+      },
+      {
+        "id": "quintal-burger-drink-1",
+        "name": "Suco natural de laranja · 300 ml",
+        "description": "Preparado na hora, sem adição de açúcar.",
+        "price": 10.9,
+        "section": "Bebidas"
+      },
+      {
+        "id": "quintal-burger-drink-2",
+        "name": "Água mineral · 500 ml",
+        "description": "Água mineral sem gás.",
+        "price": 4.9,
+        "section": "Bebidas"
+      }
+    ]
+  },
+  {
+    "id": "forno-do-bairro",
+    "name": "Forno do Bairro",
+    "category": "Pizza",
+    "description": "A pizza de toda sexta, com massa fina e recheio generoso. Receitas clássicas para dividir.",
+    "image": "/images/pizza.jpg",
+    "rating": 4.5,
+    "reviewCount": 721,
+    "deliveryMin": 40,
+    "deliveryMax": 55,
+    "deliveryFee": 4.9,
+    "averagePrice": 38,
+    "minimumOrder": 25,
+    "distanceKm": 2.3,
+    "tags": ["pizza", "tradicional", "família"],
+    "dietaryOptions": ["vegetariana"],
+    "featured": false,
+    "products": [
+      {
+        "id": "forno-do-bairro-1",
+        "name": "Muçarela tradicional",
+        "description": "Muçarela, tomate e orégano. 6 fatias.",
+        "price": 37.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "forno-do-bairro-2",
+        "name": "Frango com requeijão",
+        "description": "Frango desfiado, requeijão e milho. 6 fatias.",
+        "price": 44.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "forno-do-bairro-3",
+        "name": "Portuguesa",
+        "description": "Presunto, ovos, cebola e azeitonas. 6 fatias.",
+        "price": 46.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "forno-do-bairro-4",
+        "name": "Pizza de legumes",
+        "description": "Abobrinha, berinjela, pimentões e muçarela. 6 fatias.",
+        "price": 42.9,
+        "section": "Acompanhamentos"
+      },
+      {
+        "id": "forno-do-bairro-drink-1",
+        "name": "Suco natural de laranja · 300 ml",
+        "description": "Preparado na hora, sem adição de açúcar.",
+        "price": 10.9,
+        "section": "Bebidas"
+      },
+      {
+        "id": "forno-do-bairro-drink-2",
+        "name": "Água mineral · 500 ml",
+        "description": "Água mineral sem gás.",
+        "price": 4.9,
+        "section": "Bebidas"
+      }
+    ]
+  },
+  {
+    "id": "raiz-natural",
+    "name": "Raiz Natural",
+    "category": "Saudável",
+    "description": "Ingredientes sazonais em receitas leves e cheias de textura. Sabor que nasce de escolhas simples.",
+    "image": "/images/salad.jpg",
+    "rating": 4.7,
+    "reviewCount": 298,
+    "deliveryMin": 25,
+    "deliveryMax": 35,
+    "deliveryFee": 0,
+    "averagePrice": 36,
+    "minimumOrder": 20,
+    "distanceKm": 1.9,
+    "tags": ["orgânico", "bowl", "integral"],
+    "dietaryOptions": ["vegana", "vegetariana", "sem lactose"],
+    "featured": false,
+    "products": [
+      {
+        "id": "raiz-natural-1",
+        "name": "Bowl raízes",
+        "description": "Arroz integral, beterraba, cenoura assada e homus.",
+        "price": 34.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "raiz-natural-2",
+        "name": "Salada tropical",
+        "description": "Folhas, manga, abacate e sementes.",
+        "price": 32.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "raiz-natural-3",
+        "name": "Curry de grão-de-bico",
+        "description": "Curry suave com leite de coco e arroz integral.",
+        "price": 36.9,
+        "section": "Destaques"
+      },
+      {
+        "id": "raiz-natural-4",
+        "name": "Sopa do dia",
+        "description": "Legumes da estação, ervas frescas e pão integral.",
+        "price": 24.9,
+        "section": "Acompanhamentos"
+      },
+      {
+        "id": "raiz-natural-drink-1",
+        "name": "Suco natural de laranja · 300 ml",
+        "description": "Preparado na hora, sem adição de açúcar.",
+        "price": 10.9,
+        "section": "Bebidas"
+      },
+      {
+        "id": "raiz-natural-drink-2",
+        "name": "Água mineral · 500 ml",
+        "description": "Água mineral sem gás.",
+        "price": 4.9,
+        "section": "Bebidas"
+      }
+    ]
+  }
+]

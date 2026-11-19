@@ -1,0 +1,48 @@
+{
+  "label": "Synthetic category-based sanity check, not real-world quality",
+  "k": 2,
+  "scenarios": [
+    {
+      "query": "sushi salmão",
+      "relevance_rule": "category=Japonesa",
+      "recommended_ids": [
+        "sushi-prime",
+        "koji-sushi"
+      ],
+      "precision_at_2": 1.0,
+      "baseline_precision_at_2": 0.0
+    },
+    {
+      "query": "pizza massa",
+      "relevance_rule": "category=Pizza",
+      "recommended_ids": [
+        "nonna-pizza",
+        "forno-do-bairro"
+      ],
+      "precision_at_2": 1.0,
+      "baseline_precision_at_2": 0.0
+    },
+    {
+      "query": "burger hambúrguer",
+      "relevance_rule": "category=Hambúrguer",
+      "recommended_ids": [
+        "brasa-burger",
+        "quintal-burger"
+      ],
+      "precision_at_2": 1.0,
+      "baseline_precision_at_2": 0.5
+    },
+    {
+      "query": "salada bowl",
+      "relevance_rule": "category=Saudável",
+      "recommended_ids": [
+        "verde-vivo",
+        "raiz-natural"
+      ],
+      "precision_at_2": 1.0,
+      "baseline_precision_at_2": 0.0
+    }
+  ],
+  "mean_precision_at_2": 1.0,
+  "baseline_mean_precision_at_2": 0.125
+}
