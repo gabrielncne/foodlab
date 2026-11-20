@@ -2,7 +2,9 @@
 
 Criei o FoodLab para estudar Python, Machine Learning e como conectar uma API a uma aplicação React. É um app fictício de delivery com uma funcionalidade chamada **FoodMatch AI**, que sugere restaurantes a partir das preferências do usuário.
 
-O desenvolvimento teve apoio de IA. Também deixei meus exercícios iniciais de Python na pasta `exploracao`.
+> **Sobre minha participação:** meu foco neste projeto foi a parte de IA do FoodMatch, estudando e trabalhando na lógica de recomendação em Python. Não desenvolvi o app inteiro: a interface e a estrutura do aplicativo foram preparadas com assistência de IA para servir de base ao projeto. O recomendador também teve apoio de IA durante o desenvolvimento.
+
+Meus exercícios iniciais de Python estão na pasta `exploracao`.
 
 ## O que dá para fazer
 
