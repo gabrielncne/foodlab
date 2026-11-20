@@ -30,28 +30,6 @@ Se o texto não tiver palavras reconhecidas, o app avisa e usa avaliação e pra
 
 Usei **Python 3.15.2** e **Node.js 22.12 ou superior**. Você também precisa do Git.
 
-No PowerShell:
-
-```powershell
-git clone https://github.com/gabrielncne/foodlab.git
-cd foodlab
-npm.cmd ci
-py -3.15.2 -m venv .venv
-.\.venv\Scripts\python.exe -m pip install -r backend/requirements-lock.txt
-npm.cmd run build
-npm.cmd start
-```
-
-Abra [http://127.0.0.1:8000](http://127.0.0.1:8000). Para encerrar, use `Ctrl+C` no terminal.
-
-Nas próximas vezes, basta entrar na pasta e executar `npm.cmd start`. Se alterar o frontend, rode `npm.cmd run build` antes.
-
-## Testes
-
-```powershell
-.\.venv\Scripts\python.exe -m pytest
-```
-
 ## Sobre os dados
 
 Os restaurantes, preços e avaliações são fictícios. O orçamento considera preço médio + entrega, então é só uma estimativa. O app não realiza pedidos nem pagamentos e não tem vínculo com o iFood.
